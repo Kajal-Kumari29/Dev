@@ -1,5 +1,6 @@
 #includu<stdio.h>
 int main()
 {
-printf("Helloworid")
+printf("Helloworid");
+printf("This is good");
 }
